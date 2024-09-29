@@ -1,0 +1,20 @@
+Pipe from 0 to 1 	 read: 5 write: 6 is created!
+Pipe from 0 to 2 	 read: 7 write: 8 is created!
+Pipe from 1 to 0 	 read: 9 write: 10 is created!
+Pipe from 1 to 2 	 read: 11 write: 12 is created!
+Pipe from 2 to 0 	 read: 13 write: 14 is created!
+Pipe from 2 to 1 	 read: 15 write: 16 is created!
+Pipe 2 -> 1 	 Process 1 got msg: Process 2 (pid 14974, parent 14972) has STARTED
+Pipe 1 -> 2 	 Process 2 got msg: Process 1 (pid 14973, parent 14972) has STARTED
+Pipe 2 -> 1 	 Process 1 got msg: Process 2 has DONE its work
+Pipe 1 -> 2 	 Process 2 got msg: Process 1 has DONE its work
+Pipe 1 -> 0 	 Process 0 got msg: Process 1 (pid 14973, parent 14972) has STARTED
+Pipe 2 -> 0 	 Process 0 got msg: Process 2 (pid 14974, parent 14972) has STARTED
+Pipe 1 -> 0 	 Process 0 got msg: Process 1 has DONE its work
+Pipe 2 -> 0 	 Process 0 got msg: Process 2 has DONE its work
+Pipe from 0 to 1 	 read: 5 write: 6 is closed!
+Pipe from 0 to 2 	 read: 7 write: 8 is closed!
+Pipe from 1 to 0 	 read: 9 write: 10 is closed!
+Pipe from 1 to 2 	 read: 11 write: 12 is closed!
+Pipe from 2 to 0 	 read: 13 write: 14 is closed!
+Pipe from 2 to 1 	 read: 15 write: 16 is closed!
