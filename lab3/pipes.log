@@ -1,0 +1,24 @@
+Pipe from 0 to 1 	 read: 5 write: 6 is created!
+Pipe from 0 to 2 	 read: 7 write: 8 is created!
+Pipe from 1 to 0 	 read: 9 write: 10 is created!
+Pipe from 1 to 2 	 read: 11 write: 12 is created!
+Pipe from 2 to 0 	 read: 13 write: 14 is created!
+Pipe from 2 to 1 	 read: 15 write: 16 is created!
+Close not usable PIPE BY PROC: 1 	 from 0 to 2
+Close not usable PIPE BY PROC: 0 	 from 1 to 2
+Close not usable PIPE BY PROC: 1 	 from 2 to 0
+Close not usable PIPE BY PROC: 0 	 from 2 to 1
+Close not usable PIPE BY PROC: 2 	 from 0 to 1
+Close not usable PIPE BY PROC: 2 	 from 1 to 0
+Pipe 1 -> 0 	 Process 0 got msg: 1: process 1 (pid 17964, parent 17963) has STARTED with balance $10
+Pipe 2 -> 0 	 Process 0 got msg: 1: process 2 (pid 17965, parent 17963) has STARTED with balance $20
+Pipe 2 -> 1 	 Process 1 got msg: 1: process 2 (pid 17965, parent 17963) has STARTED with balance $20
+Pipe 1 -> 2 	 Process 2 got msg: 1: process 1 (pid 17964, parent 17963) has STARTED with balance $10
+Pipe 2 -> 1 	 Process 1 got msg: 18: process 2 has DONE with balance $20
+Pipe 1 -> 2 	 Process 2 got msg: 18: process 1 has DONE with balance $10
+Pipe 1 -> 0 	 Process 0 got msg: 18: process 1 has DONE with balance $10
+Pipe 2 -> 0 	 Process 0 got msg: 18: process 2 has DONE with balance $20
+Close usable PIPE BY PORC: 0 	 from 0 to 1
+Close usable PIPE BY PORC: 0 	 from 0 to 2
+Close usable PIPE BY PORC: 0 	 from 1 to 0
+Close usable PIPE BY PORC: 0 	 from 2 to 0
