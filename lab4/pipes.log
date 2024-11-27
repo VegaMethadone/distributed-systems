@@ -1,0 +1,918 @@
+Pipe from 0 to 1 	 read: 5 write: 6 is created!
+Pipe from 0 to 2 	 read: 7 write: 8 is created!
+Pipe from 0 to 3 	 read: 9 write: 10 is created!
+Pipe from 0 to 4 	 read: 11 write: 12 is created!
+Pipe from 0 to 5 	 read: 13 write: 14 is created!
+Pipe from 0 to 6 	 read: 15 write: 16 is created!
+Pipe from 0 to 7 	 read: 17 write: 18 is created!
+Pipe from 0 to 8 	 read: 19 write: 20 is created!
+Pipe from 0 to 9 	 read: 21 write: 22 is created!
+Pipe from 1 to 0 	 read: 23 write: 24 is created!
+Pipe from 1 to 2 	 read: 25 write: 26 is created!
+Pipe from 1 to 3 	 read: 27 write: 28 is created!
+Pipe from 1 to 4 	 read: 30 write: 31 is created!
+Pipe from 1 to 5 	 read: 32 write: 33 is created!
+Pipe from 1 to 6 	 read: 34 write: 35 is created!
+Pipe from 1 to 7 	 read: 36 write: 37 is created!
+Pipe from 1 to 8 	 read: 38 write: 39 is created!
+Pipe from 1 to 9 	 read: 40 write: 41 is created!
+Pipe from 2 to 0 	 read: 42 write: 44 is created!
+Pipe from 2 to 1 	 read: 46 write: 47 is created!
+Pipe from 2 to 3 	 read: 48 write: 49 is created!
+Pipe from 2 to 4 	 read: 50 write: 51 is created!
+Pipe from 2 to 5 	 read: 52 write: 53 is created!
+Pipe from 2 to 6 	 read: 54 write: 55 is created!
+Pipe from 2 to 7 	 read: 56 write: 57 is created!
+Pipe from 2 to 8 	 read: 58 write: 59 is created!
+Pipe from 2 to 9 	 read: 60 write: 61 is created!
+Pipe from 3 to 0 	 read: 62 write: 63 is created!
+Pipe from 3 to 1 	 read: 64 write: 65 is created!
+Pipe from 3 to 2 	 read: 66 write: 67 is created!
+Pipe from 3 to 4 	 read: 68 write: 69 is created!
+Pipe from 3 to 5 	 read: 70 write: 71 is created!
+Pipe from 3 to 6 	 read: 72 write: 73 is created!
+Pipe from 3 to 7 	 read: 74 write: 75 is created!
+Pipe from 3 to 8 	 read: 76 write: 77 is created!
+Pipe from 3 to 9 	 read: 78 write: 79 is created!
+Pipe from 4 to 0 	 read: 80 write: 81 is created!
+Pipe from 4 to 1 	 read: 82 write: 83 is created!
+Pipe from 4 to 2 	 read: 84 write: 85 is created!
+Pipe from 4 to 3 	 read: 86 write: 87 is created!
+Pipe from 4 to 5 	 read: 88 write: 89 is created!
+Pipe from 4 to 6 	 read: 90 write: 91 is created!
+Pipe from 4 to 7 	 read: 92 write: 93 is created!
+Pipe from 4 to 8 	 read: 94 write: 95 is created!
+Pipe from 4 to 9 	 read: 96 write: 97 is created!
+Pipe from 5 to 0 	 read: 98 write: 99 is created!
+Pipe from 5 to 1 	 read: 100 write: 101 is created!
+Pipe from 5 to 2 	 read: 102 write: 104 is created!
+Pipe from 5 to 3 	 read: 105 write: 106 is created!
+Pipe from 5 to 4 	 read: 107 write: 108 is created!
+Pipe from 5 to 6 	 read: 109 write: 110 is created!
+Pipe from 5 to 7 	 read: 111 write: 112 is created!
+Pipe from 5 to 8 	 read: 113 write: 114 is created!
+Pipe from 5 to 9 	 read: 115 write: 116 is created!
+Pipe from 6 to 0 	 read: 117 write: 118 is created!
+Pipe from 6 to 1 	 read: 119 write: 120 is created!
+Pipe from 6 to 2 	 read: 121 write: 122 is created!
+Pipe from 6 to 3 	 read: 123 write: 124 is created!
+Pipe from 6 to 4 	 read: 125 write: 126 is created!
+Pipe from 6 to 5 	 read: 127 write: 128 is created!
+Pipe from 6 to 7 	 read: 129 write: 130 is created!
+Pipe from 6 to 8 	 read: 131 write: 132 is created!
+Pipe from 6 to 9 	 read: 133 write: 134 is created!
+Pipe from 7 to 0 	 read: 135 write: 136 is created!
+Pipe from 7 to 1 	 read: 137 write: 138 is created!
+Pipe from 7 to 2 	 read: 139 write: 140 is created!
+Pipe from 7 to 3 	 read: 141 write: 142 is created!
+Pipe from 7 to 4 	 read: 143 write: 144 is created!
+Pipe from 7 to 5 	 read: 145 write: 146 is created!
+Pipe from 7 to 6 	 read: 147 write: 148 is created!
+Pipe from 7 to 8 	 read: 149 write: 150 is created!
+Pipe from 7 to 9 	 read: 151 write: 152 is created!
+Pipe from 8 to 0 	 read: 153 write: 154 is created!
+Pipe from 8 to 1 	 read: 155 write: 156 is created!
+Pipe from 8 to 2 	 read: 157 write: 158 is created!
+Pipe from 8 to 3 	 read: 159 write: 160 is created!
+Pipe from 8 to 4 	 read: 161 write: 162 is created!
+Pipe from 8 to 5 	 read: 163 write: 164 is created!
+Pipe from 8 to 6 	 read: 165 write: 166 is created!
+Pipe from 8 to 7 	 read: 167 write: 168 is created!
+Pipe from 8 to 9 	 read: 169 write: 170 is created!
+Pipe from 9 to 0 	 read: 171 write: 172 is created!
+Pipe from 9 to 1 	 read: 173 write: 174 is created!
+Pipe from 9 to 2 	 read: 175 write: 176 is created!
+Pipe from 9 to 3 	 read: 177 write: 178 is created!
+Pipe from 9 to 4 	 read: 179 write: 180 is created!
+Pipe from 9 to 5 	 read: 181 write: 182 is created!
+Pipe from 9 to 6 	 read: 183 write: 184 is created!
+Pipe from 9 to 7 	 read: 185 write: 186 is created!
+Pipe from 9 to 8 	 read: 187 write: 188 is created!
+Close not usable PIPE BY PROC: 1 	 from 0 to 2
+Close not usable PIPE BY PROC: 1 	 from 0 to 3
+Close not usable PIPE BY PROC: 1 	 from 0 to 4
+Close not usable PIPE BY PROC: 1 	 from 0 to 5
+Close not usable PIPE BY PROC: 1 	 from 0 to 6
+Close not usable PIPE BY PROC: 1 	 from 0 to 7
+Close not usable PIPE BY PROC: 1 	 from 0 to 8
+Close not usable PIPE BY PROC: 1 	 from 0 to 9
+Close not usable PIPE BY PROC: 1 	 from 2 to 0
+Close not usable PIPE BY PROC: 1 	 from 2 to 3
+Close not usable PIPE BY PROC: 1 	 from 2 to 4
+Close not usable PIPE BY PROC: 1 	 from 2 to 5
+Close not usable PIPE BY PROC: 1 	 from 2 to 6
+Close not usable PIPE BY PROC: 1 	 from 2 to 7
+Close not usable PIPE BY PROC: 1 	 from 2 to 8
+Close not usable PIPE BY PROC: 1 	 from 2 to 9
+Close not usable PIPE BY PROC: 1 	 from 3 to 0
+Close not usable PIPE BY PROC: 1 	 from 3 to 2
+Close not usable PIPE BY PROC: 1 	 from 3 to 4
+Close not usable PIPE BY PROC: 1 	 from 3 to 5
+Close not usable PIPE BY PROC: 1 	 from 3 to 6
+Close not usable PIPE BY PROC: 1 	 from 3 to 7
+Close not usable PIPE BY PROC: 1 	 from 3 to 8
+Close not usable PIPE BY PROC: 1 	 from 3 to 9
+Close not usable PIPE BY PROC: 1 	 from 4 to 0
+Close not usable PIPE BY PROC: 1 	 from 4 to 2
+Close not usable PIPE BY PROC: 1 	 from 4 to 3
+Close not usable PIPE BY PROC: 1 	 from 4 to 5
+Close not usable PIPE BY PROC: 1 	 from 4 to 6
+Close not usable PIPE BY PROC: 1 	 from 4 to 7
+Close not usable PIPE BY PROC: 1 	 from 4 to 8
+Close not usable PIPE BY PROC: 1 	 from 4 to 9
+Close not usable PIPE BY PROC: 1 	 from 5 to 0
+Close not usable PIPE BY PROC: 1 	 from 5 to 2
+Close not usable PIPE BY PROC: 1 	 from 5 to 3
+Close not usable PIPE BY PROC: 1 	 from 5 to 4
+Close not usable PIPE BY PROC: 1 	 from 5 to 6
+Close not usable PIPE BY PROC: 1 	 from 5 to 7
+Close not usable PIPE BY PROC: 1 	 from 5 to 8
+Close not usable PIPE BY PROC: 1 	 from 5 to 9
+Close not usable PIPE BY PROC: 2 	 from 0 to 1
+Close not usable PIPE BY PROC: 1 	 from 6 to 0
+Close not usable PIPE BY PROC: 2 	 from 0 to 3
+Close not usable PIPE BY PROC: 1 	 from 6 to 2
+Close not usable PIPE BY PROC: 2 	 from 0 to 4
+Close not usable PIPE BY PROC: 1 	 from 6 to 3
+Close not usable PIPE BY PROC: 2 	 from 0 to 5
+Close not usable PIPE BY PROC: 1 	 from 6 to 4
+Close not usable PIPE BY PROC: 2 	 from 0 to 6
+Close not usable PIPE BY PROC: 1 	 from 6 to 5
+Close not usable PIPE BY PROC: 2 	 from 0 to 7
+Close not usable PIPE BY PROC: 1 	 from 6 to 7
+Close not usable PIPE BY PROC: 2 	 from 0 to 8
+Close not usable PIPE BY PROC: 1 	 from 6 to 8
+Close not usable PIPE BY PROC: 2 	 from 0 to 9
+Close not usable PIPE BY PROC: 1 	 from 6 to 9
+Close not usable PIPE BY PROC: 2 	 from 1 to 0
+Close not usable PIPE BY PROC: 1 	 from 7 to 0
+Close not usable PIPE BY PROC: 2 	 from 1 to 3
+Close not usable PIPE BY PROC: 1 	 from 7 to 2
+Close not usable PIPE BY PROC: 2 	 from 1 to 4
+Close not usable PIPE BY PROC: 1 	 from 7 to 3
+Close not usable PIPE BY PROC: 2 	 from 1 to 5
+Close not usable PIPE BY PROC: 1 	 from 7 to 4
+Close not usable PIPE BY PROC: 2 	 from 1 to 6
+Close not usable PIPE BY PROC: 1 	 from 7 to 5
+Close not usable PIPE BY PROC: 2 	 from 1 to 7
+Close not usable PIPE BY PROC: 1 	 from 7 to 6
+Close not usable PIPE BY PROC: 2 	 from 1 to 8
+Close not usable PIPE BY PROC: 1 	 from 7 to 8
+Close not usable PIPE BY PROC: 2 	 from 1 to 9
+Close not usable PIPE BY PROC: 3 	 from 0 to 1
+Close not usable PIPE BY PROC: 1 	 from 7 to 9
+Close not usable PIPE BY PROC: 2 	 from 3 to 0
+Close not usable PIPE BY PROC: 3 	 from 0 to 2
+Close not usable PIPE BY PROC: 1 	 from 8 to 0
+Close not usable PIPE BY PROC: 2 	 from 3 to 1
+Close not usable PIPE BY PROC: 3 	 from 0 to 4
+Close not usable PIPE BY PROC: 1 	 from 8 to 2
+Close not usable PIPE BY PROC: 2 	 from 3 to 4
+Close not usable PIPE BY PROC: 3 	 from 0 to 5
+Close not usable PIPE BY PROC: 4 	 from 0 to 1
+Close not usable PIPE BY PROC: 1 	 from 8 to 3
+Close not usable PIPE BY PROC: 2 	 from 3 to 5
+Close not usable PIPE BY PROC: 3 	 from 0 to 6
+Close not usable PIPE BY PROC: 4 	 from 0 to 2
+Close not usable PIPE BY PROC: 1 	 from 8 to 4
+Close not usable PIPE BY PROC: 2 	 from 3 to 6
+Close not usable PIPE BY PROC: 3 	 from 0 to 7
+Close not usable PIPE BY PROC: 4 	 from 0 to 3
+Close not usable PIPE BY PROC: 1 	 from 8 to 5
+Close not usable PIPE BY PROC: 2 	 from 3 to 7
+Close not usable PIPE BY PROC: 3 	 from 0 to 8
+Close not usable PIPE BY PROC: 4 	 from 0 to 5
+Close not usable PIPE BY PROC: 1 	 from 8 to 6
+Close not usable PIPE BY PROC: 2 	 from 3 to 8
+Close not usable PIPE BY PROC: 3 	 from 0 to 9
+Close not usable PIPE BY PROC: 4 	 from 0 to 6
+Close not usable PIPE BY PROC: 1 	 from 8 to 7
+Close not usable PIPE BY PROC: 2 	 from 3 to 9
+Close not usable PIPE BY PROC: 3 	 from 1 to 0
+Close not usable PIPE BY PROC: 4 	 from 0 to 7
+Close not usable PIPE BY PROC: 1 	 from 8 to 9
+Close not usable PIPE BY PROC: 2 	 from 4 to 0
+Close not usable PIPE BY PROC: 3 	 from 1 to 2
+Close not usable PIPE BY PROC: 4 	 from 0 to 8
+Close not usable PIPE BY PROC: 1 	 from 9 to 0
+Close not usable PIPE BY PROC: 2 	 from 4 to 1
+Close not usable PIPE BY PROC: 3 	 from 1 to 4
+Close not usable PIPE BY PROC: 4 	 from 0 to 9
+Close not usable PIPE BY PROC: 1 	 from 9 to 2
+Close not usable PIPE BY PROC: 2 	 from 4 to 3
+Close not usable PIPE BY PROC: 3 	 from 1 to 5
+Close not usable PIPE BY PROC: 4 	 from 1 to 0
+Close not usable PIPE BY PROC: 1 	 from 9 to 3
+Close not usable PIPE BY PROC: 5 	 from 0 to 1
+Close not usable PIPE BY PROC: 2 	 from 4 to 5
+Close not usable PIPE BY PROC: 3 	 from 1 to 6
+Close not usable PIPE BY PROC: 4 	 from 1 to 2
+Close not usable PIPE BY PROC: 1 	 from 9 to 4
+Close not usable PIPE BY PROC: 5 	 from 0 to 2
+Close not usable PIPE BY PROC: 2 	 from 4 to 6
+Close not usable PIPE BY PROC: 3 	 from 1 to 7
+Close not usable PIPE BY PROC: 4 	 from 1 to 3
+Close not usable PIPE BY PROC: 1 	 from 9 to 5
+Close not usable PIPE BY PROC: 5 	 from 0 to 3
+Close not usable PIPE BY PROC: 2 	 from 4 to 7
+Close not usable PIPE BY PROC: 2 	 from 4 to 8
+Close not usable PIPE BY PROC: 2 	 from 4 to 9
+Close not usable PIPE BY PROC: 3 	 from 1 to 8
+Close not usable PIPE BY PROC: 4 	 from 1 to 5
+Close not usable PIPE BY PROC: 1 	 from 9 to 6
+Close not usable PIPE BY PROC: 5 	 from 0 to 4
+Close not usable PIPE BY PROC: 2 	 from 5 to 0
+Close not usable PIPE BY PROC: 3 	 from 1 to 9
+Close not usable PIPE BY PROC: 4 	 from 1 to 6
+Close not usable PIPE BY PROC: 1 	 from 9 to 7
+Close not usable PIPE BY PROC: 5 	 from 0 to 6
+Close not usable PIPE BY PROC: 2 	 from 5 to 1
+Close not usable PIPE BY PROC: 3 	 from 2 to 0
+Close not usable PIPE BY PROC: 4 	 from 1 to 7
+Close not usable PIPE BY PROC: 1 	 from 9 to 8
+Close not usable PIPE BY PROC: 5 	 from 0 to 7
+Close not usable PIPE BY PROC: 2 	 from 5 to 3
+Close not usable PIPE BY PROC: 3 	 from 2 to 1
+Close not usable PIPE BY PROC: 4 	 from 1 to 8
+Close not usable PIPE BY PROC: 5 	 from 0 to 8
+Close not usable PIPE BY PROC: 2 	 from 5 to 4
+Close not usable PIPE BY PROC: 3 	 from 2 to 4
+Close not usable PIPE BY PROC: 4 	 from 1 to 9
+Close not usable PIPE BY PROC: 5 	 from 0 to 9
+Close not usable PIPE BY PROC: 2 	 from 5 to 6
+Close not usable PIPE BY PROC: 3 	 from 2 to 5
+Close not usable PIPE BY PROC: 4 	 from 2 to 0
+Close not usable PIPE BY PROC: 6 	 from 0 to 1
+Close not usable PIPE BY PROC: 5 	 from 1 to 0
+Close not usable PIPE BY PROC: 2 	 from 5 to 7
+Close not usable PIPE BY PROC: 3 	 from 2 to 6
+Close not usable PIPE BY PROC: 4 	 from 2 to 1
+Close not usable PIPE BY PROC: 6 	 from 0 to 2
+Close not usable PIPE BY PROC: 5 	 from 1 to 2
+Close not usable PIPE BY PROC: 2 	 from 5 to 8
+Close not usable PIPE BY PROC: 3 	 from 2 to 7
+Close not usable PIPE BY PROC: 4 	 from 2 to 3
+Close not usable PIPE BY PROC: 6 	 from 0 to 3
+Close not usable PIPE BY PROC: 5 	 from 1 to 3
+Close not usable PIPE BY PROC: 2 	 from 5 to 9
+Close not usable PIPE BY PROC: 3 	 from 2 to 8
+Close not usable PIPE BY PROC: 4 	 from 2 to 5
+Close not usable PIPE BY PROC: 6 	 from 0 to 4
+Close not usable PIPE BY PROC: 5 	 from 1 to 4
+Close not usable PIPE BY PROC: 2 	 from 6 to 0
+Close not usable PIPE BY PROC: 3 	 from 2 to 9
+Close not usable PIPE BY PROC: 4 	 from 2 to 6
+Close not usable PIPE BY PROC: 5 	 from 1 to 6
+Close not usable PIPE BY PROC: 2 	 from 6 to 1
+Close not usable PIPE BY PROC: 3 	 from 4 to 0
+Close not usable PIPE BY PROC: 4 	 from 2 to 7
+Close not usable PIPE BY PROC: 5 	 from 1 to 7
+Close not usable PIPE BY PROC: 0 	 from 1 to 2
+Close not usable PIPE BY PROC: 2 	 from 6 to 3
+Close not usable PIPE BY PROC: 3 	 from 4 to 1
+Close not usable PIPE BY PROC: 4 	 from 2 to 8
+Close not usable PIPE BY PROC: 5 	 from 1 to 8
+Close not usable PIPE BY PROC: 0 	 from 1 to 3
+Close not usable PIPE BY PROC: 2 	 from 6 to 4
+Close not usable PIPE BY PROC: 3 	 from 4 to 2
+Close not usable PIPE BY PROC: 4 	 from 2 to 9
+Close not usable PIPE BY PROC: 5 	 from 1 to 9
+Close not usable PIPE BY PROC: 0 	 from 1 to 4
+Close not usable PIPE BY PROC: 2 	 from 6 to 5
+Close not usable PIPE BY PROC: 3 	 from 4 to 5
+Close not usable PIPE BY PROC: 4 	 from 3 to 0
+Close not usable PIPE BY PROC: 5 	 from 2 to 0
+Close not usable PIPE BY PROC: 0 	 from 1 to 5
+Close not usable PIPE BY PROC: 4 	 from 3 to 1
+Close not usable PIPE BY PROC: 2 	 from 6 to 7
+Close not usable PIPE BY PROC: 5 	 from 2 to 1
+Close not usable PIPE BY PROC: 3 	 from 4 to 6
+Close not usable PIPE BY PROC: 0 	 from 1 to 6
+Close not usable PIPE BY PROC: 4 	 from 3 to 2
+Close not usable PIPE BY PROC: 2 	 from 6 to 8
+Close not usable PIPE BY PROC: 5 	 from 2 to 3
+Close not usable PIPE BY PROC: 3 	 from 4 to 7
+Close not usable PIPE BY PROC: 0 	 from 1 to 7
+Close not usable PIPE BY PROC: 4 	 from 3 to 5
+Close not usable PIPE BY PROC: 2 	 from 6 to 9
+Close not usable PIPE BY PROC: 5 	 from 2 to 4
+Close not usable PIPE BY PROC: 3 	 from 4 to 8
+Close not usable PIPE BY PROC: 0 	 from 1 to 8
+Close not usable PIPE BY PROC: 4 	 from 3 to 6
+Close not usable PIPE BY PROC: 2 	 from 7 to 0
+Close not usable PIPE BY PROC: 5 	 from 2 to 6
+Close not usable PIPE BY PROC: 3 	 from 4 to 9
+Close not usable PIPE BY PROC: 0 	 from 1 to 9
+Close not usable PIPE BY PROC: 4 	 from 3 to 7
+Close not usable PIPE BY PROC: 2 	 from 7 to 1
+Close not usable PIPE BY PROC: 5 	 from 2 to 7
+Close not usable PIPE BY PROC: 7 	 from 0 to 1
+Close not usable PIPE BY PROC: 3 	 from 5 to 0
+Close not usable PIPE BY PROC: 0 	 from 2 to 1
+Close not usable PIPE BY PROC: 4 	 from 3 to 8
+Close not usable PIPE BY PROC: 2 	 from 7 to 3
+Close not usable PIPE BY PROC: 5 	 from 2 to 8
+Close not usable PIPE BY PROC: 7 	 from 0 to 2
+Close not usable PIPE BY PROC: 3 	 from 5 to 1
+Close not usable PIPE BY PROC: 0 	 from 2 to 3
+Close not usable PIPE BY PROC: 4 	 from 3 to 9
+Close not usable PIPE BY PROC: 2 	 from 7 to 4
+Close not usable PIPE BY PROC: 5 	 from 2 to 9
+Close not usable PIPE BY PROC: 7 	 from 0 to 3
+Close not usable PIPE BY PROC: 3 	 from 5 to 2
+Close not usable PIPE BY PROC: 0 	 from 2 to 4
+Close not usable PIPE BY PROC: 4 	 from 5 to 0
+Close not usable PIPE BY PROC: 2 	 from 7 to 5
+Close not usable PIPE BY PROC: 5 	 from 3 to 0
+Close not usable PIPE BY PROC: 7 	 from 0 to 4
+Close not usable PIPE BY PROC: 3 	 from 5 to 4
+Close not usable PIPE BY PROC: 0 	 from 2 to 5
+Close not usable PIPE BY PROC: 4 	 from 5 to 1
+Close not usable PIPE BY PROC: 2 	 from 7 to 6
+Close not usable PIPE BY PROC: 5 	 from 3 to 1
+Close not usable PIPE BY PROC: 7 	 from 0 to 5
+Close not usable PIPE BY PROC: 3 	 from 5 to 6
+Close not usable PIPE BY PROC: 0 	 from 2 to 6
+Close not usable PIPE BY PROC: 4 	 from 5 to 2
+Close not usable PIPE BY PROC: 2 	 from 7 to 8
+Close not usable PIPE BY PROC: 5 	 from 3 to 2
+Close not usable PIPE BY PROC: 7 	 from 0 to 6
+Close not usable PIPE BY PROC: 3 	 from 5 to 7
+Close not usable PIPE BY PROC: 0 	 from 2 to 7
+Close not usable PIPE BY PROC: 4 	 from 5 to 3
+Close not usable PIPE BY PROC: 2 	 from 7 to 9
+Close not usable PIPE BY PROC: 5 	 from 3 to 4
+Close not usable PIPE BY PROC: 7 	 from 0 to 8
+Close not usable PIPE BY PROC: 3 	 from 5 to 8
+Close not usable PIPE BY PROC: 0 	 from 2 to 8
+Close not usable PIPE BY PROC: 4 	 from 5 to 6
+Close not usable PIPE BY PROC: 2 	 from 8 to 0
+Close not usable PIPE BY PROC: 5 	 from 3 to 6
+Close not usable PIPE BY PROC: 7 	 from 0 to 9
+Close not usable PIPE BY PROC: 3 	 from 5 to 9
+Close not usable PIPE BY PROC: 0 	 from 2 to 9
+Close not usable PIPE BY PROC: 4 	 from 5 to 7
+Close not usable PIPE BY PROC: 2 	 from 8 to 1
+Close not usable PIPE BY PROC: 5 	 from 3 to 7
+Close not usable PIPE BY PROC: 7 	 from 1 to 0
+Close not usable PIPE BY PROC: 3 	 from 6 to 0
+Close not usable PIPE BY PROC: 0 	 from 3 to 1
+Close not usable PIPE BY PROC: 4 	 from 5 to 8
+Close not usable PIPE BY PROC: 2 	 from 8 to 3
+Close not usable PIPE BY PROC: 5 	 from 3 to 8
+Close not usable PIPE BY PROC: 7 	 from 1 to 2
+Close not usable PIPE BY PROC: 3 	 from 6 to 1
+Close not usable PIPE BY PROC: 0 	 from 3 to 2
+Close not usable PIPE BY PROC: 4 	 from 5 to 9
+Close not usable PIPE BY PROC: 2 	 from 8 to 4
+Close not usable PIPE BY PROC: 5 	 from 3 to 9
+Close not usable PIPE BY PROC: 7 	 from 1 to 3
+Close not usable PIPE BY PROC: 3 	 from 6 to 2
+Close not usable PIPE BY PROC: 0 	 from 3 to 4
+Close not usable PIPE BY PROC: 4 	 from 6 to 0
+Close not usable PIPE BY PROC: 2 	 from 8 to 5
+Close not usable PIPE BY PROC: 5 	 from 4 to 0
+Close not usable PIPE BY PROC: 7 	 from 1 to 4
+Close not usable PIPE BY PROC: 3 	 from 6 to 4
+Close not usable PIPE BY PROC: 0 	 from 3 to 5
+Close not usable PIPE BY PROC: 4 	 from 6 to 1
+Close not usable PIPE BY PROC: 2 	 from 8 to 6
+Close not usable PIPE BY PROC: 5 	 from 4 to 1
+Close not usable PIPE BY PROC: 7 	 from 1 to 5
+Close not usable PIPE BY PROC: 3 	 from 6 to 5
+Close not usable PIPE BY PROC: 0 	 from 3 to 6
+Close not usable PIPE BY PROC: 4 	 from 6 to 2
+Close not usable PIPE BY PROC: 2 	 from 8 to 7
+Close not usable PIPE BY PROC: 5 	 from 4 to 2
+Close not usable PIPE BY PROC: 7 	 from 1 to 6
+Close not usable PIPE BY PROC: 3 	 from 6 to 7
+Close not usable PIPE BY PROC: 0 	 from 3 to 7
+Close not usable PIPE BY PROC: 4 	 from 6 to 3
+Close not usable PIPE BY PROC: 2 	 from 8 to 9
+Close not usable PIPE BY PROC: 5 	 from 4 to 3
+Close not usable PIPE BY PROC: 7 	 from 1 to 8
+Close not usable PIPE BY PROC: 3 	 from 6 to 8
+Close not usable PIPE BY PROC: 0 	 from 3 to 8
+Close not usable PIPE BY PROC: 4 	 from 6 to 5
+Close not usable PIPE BY PROC: 2 	 from 9 to 0
+Close not usable PIPE BY PROC: 5 	 from 4 to 6
+Close not usable PIPE BY PROC: 7 	 from 1 to 9
+Close not usable PIPE BY PROC: 3 	 from 6 to 9
+Close not usable PIPE BY PROC: 0 	 from 3 to 9
+Close not usable PIPE BY PROC: 4 	 from 6 to 7
+Close not usable PIPE BY PROC: 2 	 from 9 to 1
+Close not usable PIPE BY PROC: 5 	 from 4 to 7
+Close not usable PIPE BY PROC: 7 	 from 2 to 0
+Close not usable PIPE BY PROC: 3 	 from 7 to 0
+Close not usable PIPE BY PROC: 0 	 from 4 to 1
+Close not usable PIPE BY PROC: 4 	 from 6 to 8
+Close not usable PIPE BY PROC: 2 	 from 9 to 3
+Close not usable PIPE BY PROC: 5 	 from 4 to 8
+Close not usable PIPE BY PROC: 7 	 from 2 to 1
+Close not usable PIPE BY PROC: 3 	 from 7 to 1
+Close not usable PIPE BY PROC: 0 	 from 4 to 2
+Close not usable PIPE BY PROC: 4 	 from 6 to 9
+Close not usable PIPE BY PROC: 2 	 from 9 to 4
+Close not usable PIPE BY PROC: 5 	 from 4 to 9
+Close not usable PIPE BY PROC: 7 	 from 2 to 3
+Close not usable PIPE BY PROC: 3 	 from 7 to 2
+Close not usable PIPE BY PROC: 0 	 from 4 to 3
+Close not usable PIPE BY PROC: 4 	 from 7 to 0
+Close not usable PIPE BY PROC: 2 	 from 9 to 5
+Close not usable PIPE BY PROC: 5 	 from 6 to 0
+Close not usable PIPE BY PROC: 7 	 from 2 to 4
+Close not usable PIPE BY PROC: 3 	 from 7 to 4
+Close not usable PIPE BY PROC: 0 	 from 4 to 5
+Close not usable PIPE BY PROC: 4 	 from 7 to 1
+Close not usable PIPE BY PROC: 2 	 from 9 to 6
+Close not usable PIPE BY PROC: 5 	 from 6 to 1
+Close not usable PIPE BY PROC: 7 	 from 2 to 5
+Close not usable PIPE BY PROC: 3 	 from 7 to 5
+Close not usable PIPE BY PROC: 0 	 from 4 to 6
+Close not usable PIPE BY PROC: 4 	 from 7 to 2
+Close not usable PIPE BY PROC: 2 	 from 9 to 7
+Close not usable PIPE BY PROC: 5 	 from 6 to 2
+Close not usable PIPE BY PROC: 7 	 from 2 to 6
+Close not usable PIPE BY PROC: 3 	 from 7 to 6
+Close not usable PIPE BY PROC: 0 	 from 4 to 7
+Close not usable PIPE BY PROC: 4 	 from 7 to 3
+Close not usable PIPE BY PROC: 2 	 from 9 to 8
+Close not usable PIPE BY PROC: 5 	 from 6 to 3
+Close not usable PIPE BY PROC: 7 	 from 2 to 8
+Close not usable PIPE BY PROC: 3 	 from 7 to 8
+Close not usable PIPE BY PROC: 0 	 from 4 to 8
+Close not usable PIPE BY PROC: 4 	 from 7 to 5
+Close not usable PIPE BY PROC: 5 	 from 6 to 4
+Close not usable PIPE BY PROC: 7 	 from 2 to 9
+Close not usable PIPE BY PROC: 3 	 from 7 to 9
+Close not usable PIPE BY PROC: 0 	 from 4 to 9
+Close not usable PIPE BY PROC: 4 	 from 7 to 6
+Close not usable PIPE BY PROC: 5 	 from 6 to 7
+Close not usable PIPE BY PROC: 7 	 from 3 to 0
+Close not usable PIPE BY PROC: 3 	 from 8 to 0
+Close not usable PIPE BY PROC: 0 	 from 5 to 1
+Close not usable PIPE BY PROC: 4 	 from 7 to 8
+Close not usable PIPE BY PROC: 5 	 from 6 to 8
+Close not usable PIPE BY PROC: 7 	 from 3 to 1
+Close not usable PIPE BY PROC: 3 	 from 8 to 1
+Close not usable PIPE BY PROC: 0 	 from 5 to 2
+Close not usable PIPE BY PROC: 6 	 from 0 to 5
+Close not usable PIPE BY PROC: 4 	 from 7 to 9
+Close not usable PIPE BY PROC: 5 	 from 6 to 9
+Close not usable PIPE BY PROC: 7 	 from 3 to 2
+Close not usable PIPE BY PROC: 3 	 from 8 to 2
+Close not usable PIPE BY PROC: 0 	 from 5 to 3
+Close not usable PIPE BY PROC: 4 	 from 8 to 0
+Close not usable PIPE BY PROC: 6 	 from 0 to 7
+Close not usable PIPE BY PROC: 5 	 from 7 to 0
+Close not usable PIPE BY PROC: 7 	 from 3 to 4
+Close not usable PIPE BY PROC: 3 	 from 8 to 4
+Close not usable PIPE BY PROC: 0 	 from 5 to 4
+Close not usable PIPE BY PROC: 4 	 from 8 to 1
+Close not usable PIPE BY PROC: 6 	 from 0 to 8
+Close not usable PIPE BY PROC: 5 	 from 7 to 1
+Close not usable PIPE BY PROC: 7 	 from 3 to 5
+Close not usable PIPE BY PROC: 3 	 from 8 to 5
+Close not usable PIPE BY PROC: 0 	 from 5 to 6
+Close not usable PIPE BY PROC: 4 	 from 8 to 2
+Close not usable PIPE BY PROC: 6 	 from 0 to 9
+Close not usable PIPE BY PROC: 5 	 from 7 to 2
+Close not usable PIPE BY PROC: 7 	 from 3 to 6
+Close not usable PIPE BY PROC: 3 	 from 8 to 6
+Close not usable PIPE BY PROC: 0 	 from 5 to 7
+Close not usable PIPE BY PROC: 4 	 from 8 to 3
+Close not usable PIPE BY PROC: 6 	 from 1 to 0
+Close not usable PIPE BY PROC: 5 	 from 7 to 3
+Close not usable PIPE BY PROC: 7 	 from 3 to 8
+Close not usable PIPE BY PROC: 3 	 from 8 to 7
+Close not usable PIPE BY PROC: 0 	 from 5 to 8
+Close not usable PIPE BY PROC: 4 	 from 8 to 5
+Close not usable PIPE BY PROC: 6 	 from 1 to 2
+Close not usable PIPE BY PROC: 5 	 from 7 to 4
+Close not usable PIPE BY PROC: 7 	 from 3 to 9
+Close not usable PIPE BY PROC: 3 	 from 8 to 9
+Close not usable PIPE BY PROC: 0 	 from 5 to 9
+Close not usable PIPE BY PROC: 4 	 from 8 to 6
+Close not usable PIPE BY PROC: 6 	 from 1 to 3
+Close not usable PIPE BY PROC: 5 	 from 7 to 6
+Close not usable PIPE BY PROC: 7 	 from 4 to 0
+Close not usable PIPE BY PROC: 3 	 from 9 to 0
+Close not usable PIPE BY PROC: 0 	 from 6 to 1
+Close not usable PIPE BY PROC: 4 	 from 8 to 7
+Close not usable PIPE BY PROC: 6 	 from 1 to 4
+Close not usable PIPE BY PROC: 5 	 from 7 to 8
+Close not usable PIPE BY PROC: 7 	 from 4 to 1
+Close not usable PIPE BY PROC: 3 	 from 9 to 1
+Close not usable PIPE BY PROC: 0 	 from 6 to 2
+Close not usable PIPE BY PROC: 4 	 from 8 to 9
+Close not usable PIPE BY PROC: 6 	 from 1 to 5
+Close not usable PIPE BY PROC: 5 	 from 7 to 9
+Close not usable PIPE BY PROC: 7 	 from 4 to 2
+Close not usable PIPE BY PROC: 3 	 from 9 to 2
+Close not usable PIPE BY PROC: 0 	 from 6 to 3
+Close not usable PIPE BY PROC: 4 	 from 9 to 0
+Close not usable PIPE BY PROC: 6 	 from 1 to 7
+Close not usable PIPE BY PROC: 5 	 from 8 to 0
+Close not usable PIPE BY PROC: 7 	 from 4 to 3
+Close not usable PIPE BY PROC: 3 	 from 9 to 4
+Close not usable PIPE BY PROC: 0 	 from 6 to 4
+Close not usable PIPE BY PROC: 4 	 from 9 to 1
+Close not usable PIPE BY PROC: 6 	 from 1 to 8
+Close not usable PIPE BY PROC: 5 	 from 8 to 1
+Close not usable PIPE BY PROC: 7 	 from 4 to 5
+Close not usable PIPE BY PROC: 3 	 from 9 to 5
+Close not usable PIPE BY PROC: 0 	 from 6 to 5
+Close not usable PIPE BY PROC: 4 	 from 9 to 2
+Close not usable PIPE BY PROC: 6 	 from 1 to 9
+Close not usable PIPE BY PROC: 5 	 from 8 to 2
+Close not usable PIPE BY PROC: 7 	 from 4 to 6
+Close not usable PIPE BY PROC: 3 	 from 9 to 6
+Close not usable PIPE BY PROC: 0 	 from 6 to 7
+Close not usable PIPE BY PROC: 4 	 from 9 to 3
+Close not usable PIPE BY PROC: 6 	 from 2 to 0
+Close not usable PIPE BY PROC: 5 	 from 8 to 3
+Close not usable PIPE BY PROC: 7 	 from 4 to 8
+Close not usable PIPE BY PROC: 3 	 from 9 to 7
+Close not usable PIPE BY PROC: 4 	 from 9 to 5
+Close not usable PIPE BY PROC: 6 	 from 2 to 1
+Close not usable PIPE BY PROC: 5 	 from 8 to 4
+Close not usable PIPE BY PROC: 7 	 from 4 to 9
+Close not usable PIPE BY PROC: 3 	 from 9 to 8
+Close not usable PIPE BY PROC: 4 	 from 9 to 6
+Close not usable PIPE BY PROC: 6 	 from 2 to 3
+Close not usable PIPE BY PROC: 5 	 from 8 to 6
+Close not usable PIPE BY PROC: 7 	 from 5 to 0
+Close not usable PIPE BY PROC: 4 	 from 9 to 7
+Close not usable PIPE BY PROC: 6 	 from 2 to 4
+Close not usable PIPE BY PROC: 5 	 from 8 to 7
+Close not usable PIPE BY PROC: 7 	 from 5 to 1
+Close not usable PIPE BY PROC: 4 	 from 9 to 8
+Close not usable PIPE BY PROC: 6 	 from 2 to 5
+Close not usable PIPE BY PROC: 5 	 from 8 to 9
+Close not usable PIPE BY PROC: 7 	 from 5 to 2
+Close not usable PIPE BY PROC: 6 	 from 2 to 7
+Close not usable PIPE BY PROC: 5 	 from 9 to 0
+Close not usable PIPE BY PROC: 7 	 from 5 to 3
+Close not usable PIPE BY PROC: 6 	 from 2 to 8
+Close not usable PIPE BY PROC: 5 	 from 9 to 1
+Close not usable PIPE BY PROC: 7 	 from 5 to 4
+Close not usable PIPE BY PROC: 8 	 from 0 to 1
+Close not usable PIPE BY PROC: 6 	 from 2 to 9
+Close not usable PIPE BY PROC: 5 	 from 9 to 2
+Close not usable PIPE BY PROC: 7 	 from 5 to 6
+Close not usable PIPE BY PROC: 8 	 from 0 to 2
+Close not usable PIPE BY PROC: 6 	 from 3 to 0
+Close not usable PIPE BY PROC: 5 	 from 9 to 3
+Close not usable PIPE BY PROC: 7 	 from 5 to 8
+Close not usable PIPE BY PROC: 8 	 from 0 to 3
+Close not usable PIPE BY PROC: 6 	 from 3 to 1
+Close not usable PIPE BY PROC: 5 	 from 9 to 4
+Close not usable PIPE BY PROC: 7 	 from 5 to 9
+Close not usable PIPE BY PROC: 8 	 from 0 to 4
+Close not usable PIPE BY PROC: 6 	 from 3 to 2
+Close not usable PIPE BY PROC: 5 	 from 9 to 6
+Close not usable PIPE BY PROC: 7 	 from 6 to 0
+Close not usable PIPE BY PROC: 8 	 from 0 to 5
+Close not usable PIPE BY PROC: 6 	 from 3 to 4
+Close not usable PIPE BY PROC: 5 	 from 9 to 7
+Close not usable PIPE BY PROC: 7 	 from 6 to 1
+Close not usable PIPE BY PROC: 8 	 from 0 to 6
+Close not usable PIPE BY PROC: 6 	 from 3 to 5
+Close not usable PIPE BY PROC: 5 	 from 9 to 8
+Close not usable PIPE BY PROC: 7 	 from 6 to 2
+Close not usable PIPE BY PROC: 8 	 from 0 to 7
+Close not usable PIPE BY PROC: 6 	 from 3 to 7
+Close not usable PIPE BY PROC: 7 	 from 6 to 3
+Close not usable PIPE BY PROC: 8 	 from 0 to 9
+Close not usable PIPE BY PROC: 6 	 from 3 to 8
+Close not usable PIPE BY PROC: 7 	 from 6 to 4
+Close not usable PIPE BY PROC: 8 	 from 1 to 0
+Close not usable PIPE BY PROC: 6 	 from 3 to 9
+Close not usable PIPE BY PROC: 7 	 from 6 to 5
+Close not usable PIPE BY PROC: 8 	 from 1 to 2
+Close not usable PIPE BY PROC: 6 	 from 4 to 0
+Close not usable PIPE BY PROC: 7 	 from 6 to 8
+Close not usable PIPE BY PROC: 8 	 from 1 to 3
+Close not usable PIPE BY PROC: 6 	 from 4 to 1
+Close not usable PIPE BY PROC: 7 	 from 6 to 9
+Close not usable PIPE BY PROC: 8 	 from 1 to 4
+Close not usable PIPE BY PROC: 6 	 from 4 to 2
+Close not usable PIPE BY PROC: 7 	 from 8 to 0
+Close not usable PIPE BY PROC: 8 	 from 1 to 5
+Close not usable PIPE BY PROC: 6 	 from 4 to 3
+Close not usable PIPE BY PROC: 7 	 from 8 to 1
+Close not usable PIPE BY PROC: 8 	 from 1 to 6
+Close not usable PIPE BY PROC: 6 	 from 4 to 5
+Close not usable PIPE BY PROC: 7 	 from 8 to 2
+Close not usable PIPE BY PROC: 8 	 from 1 to 7
+Close not usable PIPE BY PROC: 6 	 from 4 to 7
+Close not usable PIPE BY PROC: 7 	 from 8 to 3
+Close not usable PIPE BY PROC: 8 	 from 1 to 9
+Close not usable PIPE BY PROC: 6 	 from 4 to 8
+Close not usable PIPE BY PROC: 7 	 from 8 to 4
+Close not usable PIPE BY PROC: 8 	 from 2 to 0
+Close not usable PIPE BY PROC: 6 	 from 4 to 9
+Close not usable PIPE BY PROC: 7 	 from 8 to 5
+Close not usable PIPE BY PROC: 8 	 from 2 to 1
+Close not usable PIPE BY PROC: 9 	 from 0 to 1
+Close not usable PIPE BY PROC: 6 	 from 5 to 0
+Close not usable PIPE BY PROC: 7 	 from 8 to 6
+Close not usable PIPE BY PROC: 8 	 from 2 to 3
+Close not usable PIPE BY PROC: 9 	 from 0 to 2
+Close not usable PIPE BY PROC: 6 	 from 5 to 1
+Close not usable PIPE BY PROC: 7 	 from 8 to 9
+Close not usable PIPE BY PROC: 8 	 from 2 to 4
+Close not usable PIPE BY PROC: 9 	 from 0 to 3
+Close not usable PIPE BY PROC: 6 	 from 5 to 2
+Close not usable PIPE BY PROC: 7 	 from 9 to 0
+Close not usable PIPE BY PROC: 8 	 from 2 to 5
+Close not usable PIPE BY PROC: 9 	 from 0 to 4
+Close not usable PIPE BY PROC: 6 	 from 5 to 3
+Close not usable PIPE BY PROC: 7 	 from 9 to 1
+Close not usable PIPE BY PROC: 8 	 from 2 to 6
+Close not usable PIPE BY PROC: 9 	 from 0 to 5
+Close not usable PIPE BY PROC: 6 	 from 5 to 4
+Close not usable PIPE BY PROC: 7 	 from 9 to 2
+Close not usable PIPE BY PROC: 8 	 from 2 to 7
+Close not usable PIPE BY PROC: 9 	 from 0 to 6
+Close not usable PIPE BY PROC: 6 	 from 5 to 7
+Close not usable PIPE BY PROC: 7 	 from 9 to 3
+Close not usable PIPE BY PROC: 8 	 from 2 to 9
+Close not usable PIPE BY PROC: 9 	 from 0 to 7
+Close not usable PIPE BY PROC: 6 	 from 5 to 8
+Close not usable PIPE BY PROC: 7 	 from 9 to 4
+Close not usable PIPE BY PROC: 8 	 from 3 to 0
+Close not usable PIPE BY PROC: 9 	 from 0 to 8
+Close not usable PIPE BY PROC: 6 	 from 5 to 9
+Close not usable PIPE BY PROC: 7 	 from 9 to 5
+Close not usable PIPE BY PROC: 8 	 from 3 to 1
+Close not usable PIPE BY PROC: 9 	 from 1 to 0
+Close not usable PIPE BY PROC: 7 	 from 9 to 6
+Close not usable PIPE BY PROC: 6 	 from 7 to 0
+Close not usable PIPE BY PROC: 8 	 from 3 to 2
+Close not usable PIPE BY PROC: 9 	 from 1 to 2
+Close not usable PIPE BY PROC: 7 	 from 9 to 8
+Close not usable PIPE BY PROC: 6 	 from 7 to 1
+Close not usable PIPE BY PROC: 8 	 from 3 to 4
+Close not usable PIPE BY PROC: 9 	 from 1 to 3
+Close not usable PIPE BY PROC: 6 	 from 7 to 2
+Close not usable PIPE BY PROC: 8 	 from 3 to 5
+Close not usable PIPE BY PROC: 9 	 from 1 to 4
+Close not usable PIPE BY PROC: 6 	 from 7 to 3
+Close not usable PIPE BY PROC: 8 	 from 3 to 6
+Close not usable PIPE BY PROC: 9 	 from 1 to 5
+Close not usable PIPE BY PROC: 6 	 from 7 to 4
+Close not usable PIPE BY PROC: 8 	 from 3 to 7
+Close not usable PIPE BY PROC: 9 	 from 1 to 6
+Close not usable PIPE BY PROC: 6 	 from 7 to 5
+Close not usable PIPE BY PROC: 8 	 from 3 to 9
+Close not usable PIPE BY PROC: 9 	 from 1 to 7
+Close not usable PIPE BY PROC: 6 	 from 7 to 8
+Close not usable PIPE BY PROC: 8 	 from 4 to 0
+Close not usable PIPE BY PROC: 9 	 from 1 to 8
+Close not usable PIPE BY PROC: 6 	 from 7 to 9
+Close not usable PIPE BY PROC: 8 	 from 4 to 1
+Close not usable PIPE BY PROC: 9 	 from 2 to 0
+Close not usable PIPE BY PROC: 6 	 from 8 to 0
+Close not usable PIPE BY PROC: 8 	 from 4 to 2
+Close not usable PIPE BY PROC: 9 	 from 2 to 1
+Close not usable PIPE BY PROC: 6 	 from 8 to 1
+Close not usable PIPE BY PROC: 8 	 from 4 to 3
+Close not usable PIPE BY PROC: 9 	 from 2 to 3
+Close not usable PIPE BY PROC: 6 	 from 8 to 2
+Close not usable PIPE BY PROC: 8 	 from 4 to 5
+Close not usable PIPE BY PROC: 9 	 from 2 to 4
+Close not usable PIPE BY PROC: 6 	 from 8 to 3
+Close not usable PIPE BY PROC: 8 	 from 4 to 6
+Close not usable PIPE BY PROC: 9 	 from 2 to 5
+Close not usable PIPE BY PROC: 6 	 from 8 to 4
+Close not usable PIPE BY PROC: 8 	 from 4 to 7
+Close not usable PIPE BY PROC: 9 	 from 2 to 6
+Close not usable PIPE BY PROC: 6 	 from 8 to 5
+Close not usable PIPE BY PROC: 8 	 from 4 to 9
+Close not usable PIPE BY PROC: 9 	 from 2 to 7
+Close not usable PIPE BY PROC: 6 	 from 8 to 7
+Close not usable PIPE BY PROC: 8 	 from 5 to 0
+Close not usable PIPE BY PROC: 9 	 from 2 to 8
+Close not usable PIPE BY PROC: 0 	 from 6 to 8
+Close not usable PIPE BY PROC: 6 	 from 8 to 9
+Close not usable PIPE BY PROC: 8 	 from 5 to 1
+Close not usable PIPE BY PROC: 9 	 from 3 to 0
+Close not usable PIPE BY PROC: 6 	 from 9 to 0
+Close not usable PIPE BY PROC: 0 	 from 6 to 9
+Close not usable PIPE BY PROC: 8 	 from 5 to 2
+Close not usable PIPE BY PROC: 9 	 from 3 to 1
+Close not usable PIPE BY PROC: 6 	 from 9 to 1
+Close not usable PIPE BY PROC: 0 	 from 7 to 1
+Close not usable PIPE BY PROC: 8 	 from 5 to 3
+Close not usable PIPE BY PROC: 9 	 from 3 to 2
+Close not usable PIPE BY PROC: 6 	 from 9 to 2
+Close not usable PIPE BY PROC: 0 	 from 7 to 2
+Close not usable PIPE BY PROC: 8 	 from 5 to 4
+Close not usable PIPE BY PROC: 9 	 from 3 to 4
+Close not usable PIPE BY PROC: 6 	 from 9 to 3
+Close not usable PIPE BY PROC: 0 	 from 7 to 3
+Close not usable PIPE BY PROC: 8 	 from 5 to 6
+Close not usable PIPE BY PROC: 9 	 from 3 to 5
+Close not usable PIPE BY PROC: 6 	 from 9 to 4
+Close not usable PIPE BY PROC: 0 	 from 7 to 4
+Close not usable PIPE BY PROC: 8 	 from 5 to 7
+Close not usable PIPE BY PROC: 9 	 from 3 to 6
+Close not usable PIPE BY PROC: 6 	 from 9 to 5
+Close not usable PIPE BY PROC: 0 	 from 7 to 5
+Close not usable PIPE BY PROC: 8 	 from 5 to 9
+Close not usable PIPE BY PROC: 9 	 from 3 to 7
+Close not usable PIPE BY PROC: 6 	 from 9 to 7
+Close not usable PIPE BY PROC: 0 	 from 7 to 6
+Close not usable PIPE BY PROC: 8 	 from 6 to 0
+Close not usable PIPE BY PROC: 9 	 from 3 to 8
+Close not usable PIPE BY PROC: 6 	 from 9 to 8
+Close not usable PIPE BY PROC: 0 	 from 7 to 8
+Close not usable PIPE BY PROC: 8 	 from 6 to 1
+Close not usable PIPE BY PROC: 9 	 from 4 to 0
+Close not usable PIPE BY PROC: 0 	 from 7 to 9
+Close not usable PIPE BY PROC: 8 	 from 6 to 2
+Close not usable PIPE BY PROC: 9 	 from 4 to 1
+Close not usable PIPE BY PROC: 0 	 from 8 to 1
+Close not usable PIPE BY PROC: 8 	 from 6 to 3
+Close not usable PIPE BY PROC: 9 	 from 4 to 2
+Close not usable PIPE BY PROC: 0 	 from 8 to 2
+Close not usable PIPE BY PROC: 8 	 from 6 to 4
+Close not usable PIPE BY PROC: 9 	 from 4 to 3
+Close not usable PIPE BY PROC: 0 	 from 8 to 3
+Close not usable PIPE BY PROC: 8 	 from 6 to 5
+Close not usable PIPE BY PROC: 9 	 from 4 to 5
+Close not usable PIPE BY PROC: 0 	 from 8 to 4
+Close not usable PIPE BY PROC: 8 	 from 6 to 7
+Close not usable PIPE BY PROC: 9 	 from 4 to 6
+Close not usable PIPE BY PROC: 0 	 from 8 to 5
+Close not usable PIPE BY PROC: 8 	 from 6 to 9
+Close not usable PIPE BY PROC: 9 	 from 4 to 7
+Close not usable PIPE BY PROC: 0 	 from 8 to 6
+Close not usable PIPE BY PROC: 8 	 from 7 to 0
+Close not usable PIPE BY PROC: 9 	 from 4 to 8
+Close not usable PIPE BY PROC: 0 	 from 8 to 7
+Close not usable PIPE BY PROC: 8 	 from 7 to 1
+Close not usable PIPE BY PROC: 9 	 from 5 to 0
+Close not usable PIPE BY PROC: 0 	 from 8 to 9
+Close not usable PIPE BY PROC: 8 	 from 7 to 2
+Close not usable PIPE BY PROC: 9 	 from 5 to 1
+Close not usable PIPE BY PROC: 0 	 from 9 to 1
+Close not usable PIPE BY PROC: 8 	 from 7 to 3
+Close not usable PIPE BY PROC: 9 	 from 5 to 2
+Close not usable PIPE BY PROC: 0 	 from 9 to 2
+Close not usable PIPE BY PROC: 8 	 from 7 to 4
+Close not usable PIPE BY PROC: 9 	 from 5 to 3
+Close not usable PIPE BY PROC: 0 	 from 9 to 3
+Close not usable PIPE BY PROC: 8 	 from 7 to 5
+Close not usable PIPE BY PROC: 9 	 from 5 to 4
+Close not usable PIPE BY PROC: 0 	 from 9 to 4
+Close not usable PIPE BY PROC: 8 	 from 7 to 6
+Close not usable PIPE BY PROC: 9 	 from 5 to 6
+Close not usable PIPE BY PROC: 0 	 from 9 to 5
+Close not usable PIPE BY PROC: 8 	 from 7 to 9
+Close not usable PIPE BY PROC: 9 	 from 5 to 7
+Close not usable PIPE BY PROC: 0 	 from 9 to 6
+Close not usable PIPE BY PROC: 8 	 from 9 to 0
+Close not usable PIPE BY PROC: 9 	 from 5 to 8
+Close not usable PIPE BY PROC: 0 	 from 9 to 7
+Close not usable PIPE BY PROC: 8 	 from 9 to 1
+Close not usable PIPE BY PROC: 9 	 from 6 to 0
+Close not usable PIPE BY PROC: 0 	 from 9 to 8
+Close not usable PIPE BY PROC: 8 	 from 9 to 2
+Close not usable PIPE BY PROC: 9 	 from 6 to 1
+Close not usable PIPE BY PROC: 8 	 from 9 to 3
+Close not usable PIPE BY PROC: 9 	 from 6 to 2
+Close not usable PIPE BY PROC: 8 	 from 9 to 4
+Close not usable PIPE BY PROC: 9 	 from 6 to 3
+Close not usable PIPE BY PROC: 8 	 from 9 to 5
+Close not usable PIPE BY PROC: 9 	 from 6 to 4
+Close not usable PIPE BY PROC: 8 	 from 9 to 6
+Close not usable PIPE BY PROC: 9 	 from 6 to 5
+Close not usable PIPE BY PROC: 8 	 from 9 to 7
+Close not usable PIPE BY PROC: 9 	 from 6 to 7
+Close not usable PIPE BY PROC: 9 	 from 6 to 8
+Close not usable PIPE BY PROC: 9 	 from 7 to 0
+Close not usable PIPE BY PROC: 9 	 from 7 to 1
+Pipe 1 -> 0 	 Process 0 got msg: 1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+Close not usable PIPE BY PROC: 9 	 from 7 to 2
+Close not usable PIPE BY PROC: 9 	 from 7 to 3
+Pipe 2 -> 0 	 Process 0 got msg: 1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+Close not usable PIPE BY PROC: 9 	 from 7 to 4
+Close not usable PIPE BY PROC: 9 	 from 7 to 5
+Close not usable PIPE BY PROC: 9 	 from 7 to 6
+Close not usable PIPE BY PROC: 9 	 from 7 to 8
+Close not usable PIPE BY PROC: 9 	 from 8 to 0
+Close not usable PIPE BY PROC: 9 	 from 8 to 1
+Close not usable PIPE BY PROC: 9 	 from 8 to 2
+Close not usable PIPE BY PROC: 9 	 from 8 to 3
+Close not usable PIPE BY PROC: 9 	 from 8 to 4
+Close not usable PIPE BY PROC: 9 	 from 8 to 5
+Close not usable PIPE BY PROC: 9 	 from 8 to 6
+Close not usable PIPE BY PROC: 9 	 from 8 to 7
+Pipe 3 -> 0 	 Process 0 got msg: 1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+Pipe 4 -> 0 	 Process 0 got msg: 1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+Pipe 5 -> 0 	 Process 0 got msg: 1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+Pipe 6 -> 0 	 Process 0 got msg: 1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+Pipe 7 -> 0 	 Process 0 got msg: 1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+Pipe 8 -> 0 	 Process 0 got msg: 1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+Pipe 9 -> 0 	 Process 0 got msg: 1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+Pipe 2 -> 1 	 Process 1 got msg: 1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+Pipe 3 -> 1 	 Process 1 got msg: 1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+Pipe 4 -> 1 	 Process 1 got msg: 1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+Pipe 5 -> 1 	 Process 1 got msg: 1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+Pipe 6 -> 1 	 Process 1 got msg: 1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+Pipe 7 -> 1 	 Process 1 got msg: 1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+Pipe 8 -> 1 	 Process 1 got msg: 1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+Pipe 9 -> 1 	 Process 1 got msg: 1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+Pipe 1 -> 2 	 Process 2 got msg: 1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+Pipe 3 -> 2 	 Process 2 got msg: 1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+Pipe 4 -> 2 	 Process 2 got msg: 1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+Pipe 5 -> 2 	 Process 2 got msg: 1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+Pipe 6 -> 2 	 Process 2 got msg: 1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+Pipe 7 -> 2 	 Process 2 got msg: 1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+Pipe 8 -> 2 	 Process 2 got msg: 1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+Pipe 9 -> 2 	 Process 2 got msg: 1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+Pipe 1 -> 5 	 Process 5 got msg: 1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+Pipe 1 -> 7 	 Process 7 got msg: 1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+Pipe 1 -> 4 	 Process 4 got msg: 1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+Pipe 2 -> 5 	 Process 5 got msg: 1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+Pipe 2 -> 7 	 Process 7 got msg: 1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+Pipe 2 -> 4 	 Process 4 got msg: 1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+Pipe 1 -> 3 	 Process 3 got msg: 1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+Pipe 3 -> 5 	 Process 5 got msg: 1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+Pipe 3 -> 7 	 Process 7 got msg: 1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+Pipe 3 -> 4 	 Process 4 got msg: 1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+Pipe 2 -> 3 	 Process 3 got msg: 1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+Pipe 4 -> 5 	 Process 5 got msg: 1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+Pipe 4 -> 7 	 Process 7 got msg: 1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+Pipe 5 -> 4 	 Process 4 got msg: 1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+Pipe 4 -> 3 	 Process 3 got msg: 1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+Pipe 6 -> 5 	 Process 5 got msg: 1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+Pipe 5 -> 7 	 Process 7 got msg: 1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+Pipe 6 -> 4 	 Process 4 got msg: 1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+Pipe 5 -> 3 	 Process 3 got msg: 1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+Pipe 7 -> 5 	 Process 5 got msg: 1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+Pipe 6 -> 7 	 Process 7 got msg: 1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+Pipe 7 -> 4 	 Process 4 got msg: 1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+Pipe 6 -> 3 	 Process 3 got msg: 1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+Pipe 8 -> 5 	 Process 5 got msg: 1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+Pipe 8 -> 7 	 Process 7 got msg: 1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+Pipe 8 -> 4 	 Process 4 got msg: 1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+Pipe 7 -> 3 	 Process 3 got msg: 1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+Pipe 9 -> 5 	 Process 5 got msg: 1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+Pipe 9 -> 7 	 Process 7 got msg: 1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+Pipe 9 -> 4 	 Process 4 got msg: 1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+Pipe 8 -> 3 	 Process 3 got msg: 1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+Pipe 9 -> 3 	 Process 3 got msg: 1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+Pipe 1 -> 9 	 Process 9 got msg: 1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+Pipe 2 -> 9 	 Process 9 got msg: 1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+Pipe 3 -> 9 	 Process 9 got msg: 1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+Pipe 4 -> 9 	 Process 9 got msg: 1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+Pipe 5 -> 9 	 Process 9 got msg: 1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+Pipe 6 -> 9 	 Process 9 got msg: 1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+Pipe 1 -> 6 	 Process 6 got msg: 1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+Pipe 7 -> 9 	 Process 9 got msg: 1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+Pipe 2 -> 6 	 Process 6 got msg: 1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+Pipe 8 -> 9 	 Process 9 got msg: 1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+Pipe 1 -> 8 	 Process 8 got msg: 1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+Pipe 3 -> 6 	 Process 6 got msg: 1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+Pipe 2 -> 8 	 Process 8 got msg: 1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+Pipe 4 -> 6 	 Process 6 got msg: 1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+Pipe 3 -> 8 	 Process 8 got msg: 1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+Pipe 5 -> 6 	 Process 6 got msg: 1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+Pipe 4 -> 8 	 Process 8 got msg: 1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+Pipe 7 -> 6 	 Process 6 got msg: 1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+Pipe 5 -> 8 	 Process 8 got msg: 1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+Pipe 8 -> 6 	 Process 6 got msg: 1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+Pipe 6 -> 8 	 Process 8 got msg: 1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+Pipe 9 -> 6 	 Process 6 got msg: 1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+Pipe 7 -> 8 	 Process 8 got msg: 1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+Pipe 9 -> 8 	 Process 8 got msg: 1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+Pipe 1 -> 0 	 Process 0 got msg: 260: process 1 has DONE with balance $ 0
+Pipe 2 -> 0 	 Process 0 got msg: 534: process 2 has DONE with balance $ 0
+Pipe 3 -> 0 	 Process 0 got msg: 763: process 3 has DONE with balance $ 0
+Pipe 4 -> 0 	 Process 0 got msg: 951: process 4 has DONE with balance $ 0
+Pipe 5 -> 0 	 Process 0 got msg: 1104: process 5 has DONE with balance $ 0
+Pipe 6 -> 0 	 Process 0 got msg: 1214: process 6 has DONE with balance $ 0
+Pipe 7 -> 0 	 Process 0 got msg: 1281: process 7 has DONE with balance $ 0
+Pipe 8 -> 0 	 Process 0 got msg: 1319: process 8 has DONE with balance $ 0
+Pipe 9 -> 0 	 Process 0 got msg: 1331: process 9 has DONE with balance $ 0
+Close usable PIPE BY PORC: 0 	 from 0 to 1
+Close usable PIPE BY PORC: 0 	 from 0 to 2
+Close usable PIPE BY PORC: 0 	 from 0 to 3
+Close usable PIPE BY PORC: 0 	 from 0 to 4
+Close usable PIPE BY PORC: 0 	 from 0 to 5
+Close usable PIPE BY PORC: 0 	 from 0 to 6
+Close usable PIPE BY PORC: 0 	 from 0 to 7
+Close usable PIPE BY PORC: 0 	 from 0 to 8
+Close usable PIPE BY PORC: 0 	 from 0 to 9
+Close usable PIPE BY PORC: 0 	 from 1 to 0
+Close usable PIPE BY PORC: 0 	 from 2 to 0
+Close usable PIPE BY PORC: 0 	 from 3 to 0
+Close usable PIPE BY PORC: 0 	 from 4 to 0
+Close usable PIPE BY PORC: 0 	 from 5 to 0
+Close usable PIPE BY PORC: 0 	 from 6 to 0
+Close usable PIPE BY PORC: 0 	 from 7 to 0
+Close usable PIPE BY PORC: 0 	 from 8 to 0
+Close usable PIPE BY PORC: 0 	 from 9 to 0

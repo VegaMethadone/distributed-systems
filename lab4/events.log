@@ -1,0 +1,145 @@
+1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+9: process 1 received all STARTED messages
+1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+9: process 2 received all STARTED messages
+1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+9: process 5 received all STARTED messages
+9: process 7 received all STARTED messages
+9: process 4 received all STARTED messages
+1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+9: process 3 received all STARTED messages
+1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+1: process 1 (pid 35401, parent 35400) has STARTED with balance $ 0
+9: process 9 received all STARTED messages
+1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+1: process 2 (pid 35402, parent 35400) has STARTED with balance $ 0
+1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+1: process 3 (pid 35403, parent 35400) has STARTED with balance $ 0
+1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+1: process 4 (pid 35404, parent 35400) has STARTED with balance $ 0
+1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+1: process 5 (pid 35405, parent 35400) has STARTED with balance $ 0
+1: process 8 (pid 35408, parent 35400) has STARTED with balance $ 0
+1: process 6 (pid 35406, parent 35400) has STARTED with balance $ 0
+1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+1: process 7 (pid 35407, parent 35400) has STARTED with balance $ 0
+9: process 6 received all STARTED messages
+1: process 9 (pid 35409, parent 35400) has STARTED with balance $ 0
+9: process 8 received all STARTED messages
+534: process 2 has DONE with balance $ 0
+763: process 3 has DONE with balance $ 0
+763: process 3 has DONE with balance $ 0
+951: process 4 has DONE with balance $ 0
+951: process 4 has DONE with balance $ 0
+951: process 4 has DONE with balance $ 0
+1104: process 5 has DONE with balance $ 0
+1104: process 5 has DONE with balance $ 0
+1104: process 5 has DONE with balance $ 0
+1104: process 5 has DONE with balance $ 0
+1214: process 6 has DONE with balance $ 0
+1214: process 6 has DONE with balance $ 0
+1214: process 6 has DONE with balance $ 0
+1214: process 6 has DONE with balance $ 0
+1214: process 6 has DONE with balance $ 0
+1281: process 7 has DONE with balance $ 0
+1281: process 7 has DONE with balance $ 0
+1281: process 7 has DONE with balance $ 0
+1281: process 7 has DONE with balance $ 0
+1281: process 7 has DONE with balance $ 0
+1281: process 7 has DONE with balance $ 0
+1319: process 8 has DONE with balance $ 0
+1319: process 8 has DONE with balance $ 0
+1319: process 8 has DONE with balance $ 0
+1319: process 8 has DONE with balance $ 0
+1319: process 8 has DONE with balance $ 0
+1319: process 8 has DONE with balance $ 0
+1319: process 8 has DONE with balance $ 0
+1331: process 9 has DONE with balance $ 0
+1331: process 9 has DONE with balance $ 0
+1331: process 9 has DONE with balance $ 0
+1331: process 9 has DONE with balance $ 0
+1331: process 9 has DONE with balance $ 0
+1331: process 9 has DONE with balance $ 0
+1331: process 9 has DONE with balance $ 0
+1331: process 9 has DONE with balance $ 0
+1332: process 1 received all DONE messages
+1332: process 2 received all DONE messages
+1332: process 3 received all DONE messages
+1332: process 4 received all DONE messages
+1332: process 5 received all DONE messages
+1332: process 6 received all DONE messages
+1338: process 7 received all DONE messages
+1332: process 8 received all DONE messages
+1331: process 9 received all DONE messages
+260: process 1 has DONE with balance $ 0
+534: process 2 has DONE with balance $ 0
+763: process 3 has DONE with balance $ 0
+951: process 4 has DONE with balance $ 0
+1104: process 5 has DONE with balance $ 0
+1214: process 6 has DONE with balance $ 0
+1281: process 7 has DONE with balance $ 0
+1319: process 8 has DONE with balance $ 0
+1331: process 9 has DONE with balance $ 0
+1332: process 0 received all DONE messages
